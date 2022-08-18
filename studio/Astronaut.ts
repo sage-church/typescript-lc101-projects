@@ -12,6 +12,4 @@ export class Astronaut implements Payload {
 
     }
 
-    
-
 }
